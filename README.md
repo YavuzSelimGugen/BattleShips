@@ -48,8 +48,10 @@ dışarıdan aldık.
 1-
 ![Screenshot1](img/bs1.PNG)
 
-### 2-
-
-3- Üstteki inputlara göre yerleştirilen gemi, her bir parçası O olarak gösteriliyor.
+2-
+![Screenshot2](img/bs2.PNG)
+3-
+![Screenshot3](img/bs3.PNG) 
+Üstteki inputlara göre yerleştirilen gemi, her bir parçası O olarak gösteriliyor.
 
 
