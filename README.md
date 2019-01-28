@@ -46,7 +46,7 @@ dışarıdan aldık.
 Örnek ekran görüntüleri:
 
 1-
-![Screenshot1](img/bs1.png)
+![Screenshot1](img/bs1.PNG)
 
 ### 2-
 
