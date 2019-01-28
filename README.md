@@ -46,7 +46,7 @@ dışarıdan aldık.
 Örnek ekran görüntüleri:
 
 1-
-![Screenshot1](/img/bs1.png)
+![Screenshot1](YavuzSelimGugen/BattleShips/img/bs1.png)
 
 ### 2-
 
